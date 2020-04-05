@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1586025175404' stop='1586025175407'>
+    <name>Login Page feature tests</name>
+    <title>Login Page feature tests</title>
+    <test-cases>
+        <test-case start='1586025175405' status='pending' stop='1586025175406'>
+            <name>Verify Base URL is launched</name>
+            <title>Verify Base URL is launched</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1586025175406' status='pending' stop='1586025175407'>
+            <name>Verify Location Field</name>
+            <title>Verify Location Field</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

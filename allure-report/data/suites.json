@@ -1,0 +1,35 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Login Page feature tests",
+    "children" : [ {
+      "name" : "Verify Base URL is launched",
+      "uid" : "ceab71e3c4417db6",
+      "parentUid" : "0f2e10c2175a851867977892df0e66fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585983329677,
+        "stop" : 1585983334712,
+        "duration" : 5035
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Verify Location Field",
+      "uid" : "f018e8bc6b82f1a",
+      "parentUid" : "0f2e10c2175a851867977892df0e66fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1585983334712,
+        "stop" : 1585983334889,
+        "duration" : 177
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "0f2e10c2175a851867977892df0e66fe"
+  } ]
+}

@@ -1,0 +1,21 @@
+[ {
+  "uid" : "f018e8bc6b82f1a",
+  "name" : "Verify Location Field",
+  "time" : {
+    "start" : 1585983334712,
+    "stop" : 1585983334889,
+    "duration" : 177
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ceab71e3c4417db6",
+  "name" : "Verify Base URL is launched",
+  "time" : {
+    "start" : 1585983329677,
+    "stop" : 1585983334712,
+    "duration" : 5035
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

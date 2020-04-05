@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1586058346380' stop='1586058351234'>
+    <name>Tests to verify Amanzon Landing Page</name>
+    <title>Tests to verify Amanzon Landing Page</title>
+    <test-cases>
+        <test-case start='1586058346382' status='passed' stop='1586058351233'>
+            <name>Test to verify Login Link</name>
+            <title>Test to verify Login Link</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

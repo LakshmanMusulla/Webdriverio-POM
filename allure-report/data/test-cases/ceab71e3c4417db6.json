@@ -1,0 +1,58 @@
+{
+  "uid" : "ceab71e3c4417db6",
+  "name" : "Verify Base URL is launched",
+  "fullName" : "Login Page feature tests.Verify Base URL is launched",
+  "historyId" : "a8da23e68761b8a4ab57d06fb2bfd307",
+  "time" : {
+    "start" : 1585983329677,
+    "stop" : 1585983334712,
+    "duration" : 5035
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Login Page feature tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Page feature tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Base URL is launched"
+  }, {
+    "name" : "package",
+    "value" : "Login Page feature tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ceab71e3c4417db6.json",
+  "parameterValues" : [ "chrome" ]
+}

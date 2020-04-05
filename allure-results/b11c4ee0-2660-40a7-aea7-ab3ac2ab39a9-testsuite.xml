@@ -1,0 +1,30 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1586060771705' stop='1586060789871'>
+    <name>Tests to verify Amanzon Landing Page</name>
+    <title>Tests to verify Amanzon Landing Page</title>
+    <test-cases>
+        <test-case start='1586060771706' status='broken' stop='1586060789869'>
+            <name>Test to verify Lan ding Page Title</name>
+            <title>Test to verify Lan ding Page Title</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>element ("signInSubmit") still not displayed after 10000ms</message>
+                <stack-trace>Error: element ("signInSubmit") still not displayed after 10000ms
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+                    at Commons.isElementDisplayed (/Users/lakshman.musulla/Desktop/Automation/WebDriverIO POM Framework/utilities/commons.js:24:17)
+                    at LoginPage.isSubmitButtonDisplayed (/Users/lakshman.musulla/Desktop/Automation/WebDriverIO POM Framework/pages/loginpage.js:23:20)
+                    at LoginPage.clickOnSubmitBtn (/Users/lakshman.musulla/Desktop/Automation/WebDriverIO POM Framework/pages/loginpage.js:44:11)
+                    at Context.&lt;anonymous> (/Users/lakshman.musulla/Desktop/Automation/WebDriverIO POM Framework/test/specs/landingpagetest.js:15:18)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

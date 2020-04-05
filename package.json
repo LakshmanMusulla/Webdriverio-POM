@@ -1,0 +1,32 @@
+{
+  "name": "1.0",
+  "version": "1.0.0",
+  "description": "WebDriverIO Basic Page Object Model Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/wdio ./wdio.conf.js"
+  },
+  "author": "Lakshman Kumar Musulla",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/allure-reporter": "^6.0.12",
+    "@wdio/cli": "^6.0.13",
+    "@wdio/dot-reporter": "^6.0.12",
+    "@wdio/junit-reporter": "^6.0.12",
+    "@wdio/local-runner": "^6.0.13",
+    "@wdio/mocha-framework": "^6.0.13",
+    "@wdio/spec-reporter": "^6.0.12",
+    "@wdio/sync": "^6.0.12",
+    "chai": "^4.2.0",
+    "chai-webdriverio": "^1.0.0",
+    "chromedriver": "^80.0.1",
+    "local-runner": "^0.1.1-alpha",
+    "selenium-standalone": "^6.17.0",
+    "wdio-chromedriver-service": "^6.0.1",
+    "wdio-json-reporter": "^1.4.0",
+    "webdriverio": "^6.0.13"
+  },
+  "dependencies": {
+    "@wdio/reporter": "^6.0.12"
+  }
+}

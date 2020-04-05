@@ -1,0 +1,68 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1586005320244' stop='1586005340562'>
+    <name>Login Page feature tests</name>
+    <title>Login Page feature tests</title>
+    <test-cases>
+        <test-case start='1586005320244' status='undefined'>
+            <name>Verify Base URL is launched</name>
+            <title>Verify Base URL is launched</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1586005330576' status='undefined'>
+            <name>Verify Base URL is launched</name>
+            <title>Verify Base URL is launched</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1586005336629' status='broken' stop='1586005340405'>
+            <name>Verify Base URL is launched</name>
+            <title>Verify Base URL is launched</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>assert.true is not a function</message>
+                <stack-trace>TypeError: assert.true is not a function
+                    at Context.&lt;anonymous> (/Users/lakshman.musulla/Desktop/Automation/WebDriverIO POM Framework/test/specs/loginpagetest.js:8:20)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1586005340405' status='passed' stop='1586005340562'>
+            <name>Verify Location Field</name>
+            <title>Verify Location Field</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
