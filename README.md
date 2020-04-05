@@ -51,8 +51,3 @@ You might be asked to improve or make further changes, if the the commits you ma
 Please note that, you do not have to make another pull request, just make the changes you are supposed to in the fork and it will get reflected in the already made pull request.
 ually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
 
-
-
-
-
-
